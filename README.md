@@ -39,3 +39,29 @@
 
 ![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-04%20180306.png)
 
+## 5.Запуск агента через веб-інтерфейс
+
+### Запустив робота через web:
+
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-04%20181906.png)
+
+## 6.Створення агента з математичними інструментами
+
+### Я спитався у нього відповіді на запитання:
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-04%20185809.png)
+
+
+## 7.Створення агента-помічника для студентів
+
+
+### Створив помічника робота і задав йому питання:
+
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-04%20191855.png)
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-04%20191948.png)
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-04%20192039.png)
+
+## 8.Створення агента з пам'яттю (збереження контексту)
+
+### Створив бота для розмови:
+
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-04%20204321.png)
