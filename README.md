@@ -65,3 +65,34 @@
 ### Створив бота для розмови:
 
 ![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-04%20204321.png)
+
+### також він помятає як мене звати:
+
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-05%20175412.png)
+
+## Поради щодо створення ефективних агентів
+
+### Я зробив фінансового помічника, який допомагає рахувати ROI:
+
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-05%20193848.png)
+
+### ось його код:
+
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-05%20194426.png)
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-05%20194441.png)
+
+### Чому я саме обрав такі інструкції? Бо Згідно з рекомендаціями, інструкції написані максимально детально та структуровано. Я чітко визначив роль агента ("професійний фінансовий консультант") та його обов'язки. Також в інструкції жорстко задано формат відповідей (використання Markdown, жирного шрифту для чисел, списків) та вказана обов'язкова мова спілкування (українська). Окремо прописано сценарій обробки помилок: як агент має реагувати, якщо користувач введе некоректні дані.
+
+
+## Розширене завдання: Агент з збереженням стану
+
+### Я зробив бота який запамятовує інформацію:
+
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-05%20202156.png)
+![alt-text](https://github.com/Oleksii-dot278/Laboratory-work-9/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-05%20203236.png)
+
+
+
+
+
+

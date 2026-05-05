@@ -1,5 +1,14 @@
+import logging
 from google.adk.agents.llm_agent import Agent
 from google.adk.tools.tool_context import ToolContext
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+def logging_tool(param: str) -> dict:
+    """Інструмент з логуванням подій"""
+    logger.info(f"Виклик інструменту logging_tool з параметром: {param}")
+    return {"result": "success", "processed_param": param}
 
 def save_user_preference(tool_context: ToolContext, preference_type: str, value: str) -> dict:
     """
